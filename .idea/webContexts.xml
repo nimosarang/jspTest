@@ -4,6 +4,7 @@
     <option name="state">
       <map>
         <entry key="file://$PROJECT_DIR$/web/WEB-INF/viewAuthorTable.jsp" value="file://$PROJECT_DIR$/web/WEB-INF" />
+        <entry key="file://$PROJECT_DIR$/web/exam/directive3.jsp" value="file://$PROJECT_DIR$/web/exam" />
         <entry key="file://$PROJECT_DIR$/web/viewAuthorTable.jsp" value="file://$PROJECT_DIR$/web" />
       </map>
     </option>
